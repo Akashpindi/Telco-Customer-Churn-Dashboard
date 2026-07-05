@@ -49,7 +49,6 @@ This project analyzes customer churn data to help businesses understand customer
 > Upload a screenshot named **dashboard.png** to your repository, then it will automatically appear below.
 
 ```markdown
-![Dashboard Preview](./dashboard.png)
 
 ## 💡 Key Insights
 
@@ -69,24 +68,11 @@ This project analyzes customer churn data to help businesses understand customer
 * Excel Automation
 * Analytical Thinking
 
-## 📷 Repository Structure
-
-```
-telco-customer-churn-dashboard/
-│
-├── README.md
-├── Telco_Customer_Churn_Dashboard.xlsx
-├── dashboard.png
-├── data/
-│   └── telco_customer_churn.csv
-└── screenshots/
-```
-
 ## 👨‍💻 Author
 
 **Akash Pindi**
 
-* GitHub: https://github.com/YourUsername
-* LinkedIn: https://linkedin.com/in/YourLinkedIn
+* GitHub: github.com/Akashpindi
+* LinkedIn: linkedin.com/in/akash-pindi
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
