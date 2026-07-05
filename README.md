@@ -1,58 +1,92 @@
-# Telco-Customer-Churn-Dashboard
-📊 Interactive Excel dashboard analyzing Telco Customer Churn using Pivot Tables, Charts, KPIs, and Slicers.
+# 📊 Telco Customer Churn Dashboard (Excel)
 
-## Project Overview
+An interactive Microsoft Excel dashboard for analyzing customer churn in a telecom company using Pivot Tables, Charts, KPIs, and Slicers.
 
-This project presents an interactive Excel dashboard for analyzing customer churn in a telecom company. It helps identify the factors influencing customer churn using Pivot Tables, KPIs, charts, and slicers.
+## 📌 Project Overview
 
-## Objectives
+This project analyzes customer churn data to help businesses understand customer behavior, identify churn patterns, and make data-driven decisions. The dashboard provides an interactive way to explore key performance indicators and customer demographics.
 
-- Analyze customer churn patterns.
-- Monitor customer demographics.
-- Compare churn across contract types.
-- Study payment methods and internet services.
-- Visualize key business metrics.
+## 🎯 Objectives
 
-## Dataset
+* Analyze customer churn trends.
+* Identify factors influencing customer churn.
+* Compare churn across contract types.
+* Analyze payment methods and internet services.
+* Present business insights through an interactive dashboard.
 
-- Dataset: Telco Customer Churn
-- Records: 7,043+ customers
+## 🛠️ Tools Used
 
-## Dashboard Features
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Cards
+* Conditional Formatting
 
-- Customer Count
-- Churn Count
-- Active Customers
-- Average Monthly Charges
-- Average Tenure
-- Contract-wise Analysis
-- Gender-wise Churn
-- Internet Service Analysis
-- Payment Method Analysis
-- Interactive Slicers
+## 📈 Dashboard Features
 
-## Tools Used
+* ✅ Total Customers
+* ✅ Churn Count
+* ✅ Active Customers
+* ✅ Average Monthly Charges
+* ✅ Average Tenure
+* ✅ Contract Type Analysis
+* ✅ Gender-wise Analysis
+* ✅ Internet Service Analysis
+* ✅ Payment Method Analysis
+* ✅ Interactive Filters (Slicers)
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-- Conditional Formatting
+## 📂 Files
 
-## Key Insights
+| File                                                                            | Description              |
+| ------------------------------------------------------------------------------- | ------------------------ |
+| 📊 [Telco_Customer_Churn_Dashboard.xlsx](./Telco_Customer_Churn_Dashboard.xlsx) | Complete Excel Dashboard |
+| 🖼️ [dashboard.png](./dashboard.png)                                            | Dashboard Preview        |
+| 📁 [telco_customer_churn.csv](./data/telco_customer_churn.csv)                  | Dataset (Optional)       |
 
-- Month-to-month contracts have the highest churn.
-- Fiber optic customers show higher churn rates.
-- Electronic check users churn more frequently.
-- Long-term contracts improve customer retention.
+## 🖼️ Dashboard Preview
 
-## Files
+> Upload a screenshot named **dashboard.png** to your repository, then it will automatically appear below.
 
-- [`Telco_Customer_Churn_Dashboard.xlsx`](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/Telco_Customer_Churn_Dashboard.xlsx) – Complete dashboard
-- ['dashboard.png'](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/dashboard.png) – Dashboard preview
-- ['telco_customer_churn.csv'](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/Dataset.xlsx) – Dataset (optional)
+```markdown
+![Dashboard Preview](./dashboard.png)
 
-## Author
+## 💡 Key Insights
+
+* Customers with **Month-to-Month contracts** have the highest churn rate.
+* **Fiber Optic** users show higher churn compared to other internet services.
+* Customers using **Electronic Check** are more likely to churn.
+* Long-term contracts significantly improve customer retention.
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Dashboard Design
+* Business Intelligence
+* Data Visualization
+* KPI Reporting
+* Excel Automation
+* Analytical Thinking
+
+## 📷 Repository Structure
+
+```
+telco-customer-churn-dashboard/
+│
+├── README.md
+├── Telco_Customer_Churn_Dashboard.xlsx
+├── dashboard.png
+├── data/
+│   └── telco_customer_churn.csv
+└── screenshots/
+```
+
+## 👨‍💻 Author
 
 **Akash Pindi**
+
+* GitHub: https://github.com/YourUsername
+* LinkedIn: https://linkedin.com/in/YourLinkedIn
+
+⭐ If you found this project useful, consider giving it a **Star** on GitHub!
