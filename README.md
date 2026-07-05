@@ -50,8 +50,8 @@ This project presents an interactive Excel dashboard for analyzing customer chur
 ## Files
 
 - [`Telco_Customer_Churn_Dashboard.xlsx`](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/Telco_Customer_Churn_Dashboard.xlsx) – Complete dashboard
-- `[dashboard.png](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/dashboard.png)` – Dashboard preview
-- `telco_customer_churn.csv` – Dataset (optional)
+- ['dashboard.png'](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/dashboard.png) – Dashboard preview
+- ['telco_customer_churn.csv'](https://github.com/Akashpindi/Telco-Customer-Churn-Dashboard/blob/main/Dataset.xlsx) – Dataset (optional)
 
 ## Author
 
